@@ -9,6 +9,8 @@
 - Spoof cellular information, including carrier data, cellular service, and more.
 - Mock eSIM compatibility for non-supported devices (this will NOT allow you to use eSIM's, only spoof it).
 - Easy installation with LSPosed (must have a rooted device w/ Xpsoed).
+<img height="400" alt="image" src="https://github.com/user-attachments/assets/1a1a3568-dd81-4948-8637-c205bfe17744" />
+
 
 ## Usage
 If you'd like to compile this project for yourself, download the latest release `.zip` file and launch it in Android Studio for easy building. Otherwise, you can simply install it using the pre-compiled APK in the latest release [here](https://github.com/BrianWalczak/TelephonySpoofer/releases/).
