@@ -1,6 +1,7 @@
 <h1 align="center">TelephonySpoofer - Spoof all things networking!</h1>
 
-<p align="center">An all-in-one, feature-rich module for Android devices to spoof cellular information, including eSIM compatibility! Powered by Xposed and sideloaded with LSPosed. ❤<br></p>
+<p align="center">An all-in-one, feature-rich module for Android devices to spoof cellular information, including eSIM compatibility! Powered by Xposed and sideloaded with LSPosed. ❤<br><br> <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT%20License-blue.svg"></a></p>
+
 
 > [!TIP]
 > Looking to use this module on Android 15+ or newer devices? You can use this maintained LSPosed mirror [here](https://github.com/JingMatrix/LSPosed) (thanks JingMatrix!)
