@@ -22,4 +22,4 @@ If you'd like to contribute to this project, please create a pull request [here]
 If you'd like to support this project and its development, you can send me a donation <a href='https://ko-fi.com/brianwalczak'>here</a> :)
 
 <br>
-  <p align="center">Made with ♡ by <a href="https://www.brianwalczak.com">Briann</a></p>
+  <p align="center">Made with ♡ by <a href="https://brian.re/">Briann</a></p>
