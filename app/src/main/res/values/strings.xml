@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TelephonySpoofer</string>
+    <string name="app_description">An Xposed module for Android devices to spoof cellular information, including eSIM compatibility, via LSPosed.</string>
 </resources>
