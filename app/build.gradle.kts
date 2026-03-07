@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.brianwalczak.telephonyspoofer"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.brianwalczak.telephonyspoofer"
@@ -40,7 +40,7 @@ android {
 }
 
 dependencies {
-
+    compileOnly(files("libs/io/github/libxposed/api/100/api-100.aar"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
